@@ -1,0 +1,14 @@
+# Temporary files
+
+*~
+*.swp
+
+# Metadata
+
+.DS_Store
+Thumbs.db
+
+# Binary
+
+*.out
+*.exe
