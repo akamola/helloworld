@@ -10,5 +10,6 @@ Thumbs.db
 
 # Binary
 
+*.o
 *.out
 *.exe
