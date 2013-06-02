@@ -13,4 +13,5 @@ This is a collection of "Hello World!" programs in various programming languages
 - Perl (`helloworld.pl`)
 - PHP (`helloworld.php`)
 - Python (`helloworld.py`)
+- R (`helloworld.R`)
 - Ruby (`helloworld.rb`)
