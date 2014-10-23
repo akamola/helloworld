@@ -6,6 +6,7 @@ This is a collection of "Hello World!" programs in various programming languages
 - AppleScript (`helloworld.scpt`)
 - Bash (`helloworld.sh`)
 - C (`helloworld.c`)
+- C++ (`helloworld.cpp`)
 - C# (`HelloWorld.cs`)
 - D (`helloworld.d`)
 - Go (`helloworld.go`)
