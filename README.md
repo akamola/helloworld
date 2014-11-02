@@ -14,6 +14,7 @@ This is a collection of "Hello World!" programs in various programming languages
 - Objective-C (`helloworld.m`)
 - Perl (`helloworld.pl`)
 - PHP (`helloworld.php`)
+- Processing (`helloworld.pde`)
 - Python (`helloworld.py`)
 - R (`helloworld.R`)
 - Ruby (`helloworld.rb`)
