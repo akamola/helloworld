@@ -11,6 +11,7 @@ This is a collection of "Hello World!" programs in various programming languages
 - D (`helloworld.d`)
 - Go (`helloworld.go`)
 - Java (`HelloWorld.java`)
+- Lua (`helloworld.lua`)
 - Objective-C (`helloworld.m`)
 - Perl (`helloworld.pl`)
 - PHP (`helloworld.php`)
