@@ -13,6 +13,7 @@ This is a collection of "Hello World!" programs in various programming languages
 - Go (`helloworld.go`)
 - Groovy (`helloworld.groovy`)
 - Java (`HelloWorld.java`)
+- LOLCODE (`helloworld.lol`)
 - Lua (`helloworld.lua`)
 - Objective-C (`helloworld.m`)
 - Perl (`helloworld.pl`)
