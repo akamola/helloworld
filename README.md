@@ -22,5 +22,6 @@ This is a collection of "Hello World!" programs in various programming languages
 - Python (`helloworld.py`)
 - R (`helloworld.R`)
 - Ruby (`helloworld.rb`)
+- Rust (`helloworld.rs`)
 - Scala (`helloworld.scala`)
 - Switft (`helloworld.swift`)
